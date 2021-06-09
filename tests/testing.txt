@@ -1,0 +1,19 @@
+.testing home page mobile responsiveness
+-tester = lwando meje
+-date = jun9/2021
+-expected results = the app must be mobile responsive,the text must not be on top of one another.
+-actual results = the home page is response.
+
+.testing the register form works.
+-tester = lwando meje
+-date = jun9/2021
+-expected result = If we enter valid data on the form we should be able to be registered and be able to log in
+-actual results = same as we expected and got message 'Account created successfully! You are now logged in as lwandomeje'
+
+.test log-in with invalid
+-tester = lwando meje
+-date = jun19/2021
+-expected results = if we log-in with invalid password the app should not alaw as to be able to log-in
+-actual results= same as expected results
+
+
